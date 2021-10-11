@@ -58,7 +58,7 @@
                                     <constraint firstAttribute="width" constant="85" id="omt-aV-Snj"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Save"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Save" titleAlignment="leading"/>
                                 <connections>
                                     <action selector="btnSave:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DJW-wX-Wod"/>
                                 </connections>
@@ -66,7 +66,7 @@
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="trailing" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6jb-DA-Ugg">
                                 <rect key="frame" x="219" y="214" width="85" height="31"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Edit"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Edit" titleAlignment="trailing"/>
                                 <connections>
                                     <action selector="btnEdit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jwk-ed-u8H"/>
                                 </connections>
